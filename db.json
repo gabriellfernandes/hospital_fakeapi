@@ -17,6 +17,7 @@
     "id": 1,
     "idCl": 1,
     "nomeCl": "Teste Clinica 1",
+    "img": ["https://i1.wp.com/iclinic-mkt.s3.amazonaws.com/ghost-images/images/2019/03/recepcionista-de-clinica.png?resize=1024&w=1024","https://clinicadeimagens.net/wp-content/uploads/2020/02/foto2.png","https://clinicadetodos-sp.com.br/wp-content/uploads/2021/02/Clinica-de-todos-lapa-recepcao.jpg"],
     "endereço": [{
                   "Rua":"Av. Augusta Viola da Costa", 
                   "Numero": "350",
@@ -31,6 +32,7 @@
     "id": 2,
     "idCl": 2,
     "nomeCl": "Teste Clinica 2",
+    "img": ["https://i1.wp.com/iclinic-mkt.s3.amazonaws.com/ghost-images/images/2019/03/recepcionista-de-clinica.png?resize=1024&w=1024","https://clinicadeimagens.net/wp-content/uploads/2020/02/foto2.png","https://clinicadetodos-sp.com.br/wp-content/uploads/2021/02/Clinica-de-todos-lapa-recepcao.jpg"],
     "endereço": [{
                   "Rua":"Av. Augusta Viola da Costa", 
                   "Numero": "400",
@@ -44,6 +46,7 @@
     "id": 3,
     "idCl": 3,
     "nomeCl": "Teste Clinica 3",
+    "img": ["https://i1.wp.com/iclinic-mkt.s3.amazonaws.com/ghost-images/images/2019/03/recepcionista-de-clinica.png?resize=1024&w=1024","https://clinicadeimagens.net/wp-content/uploads/2020/02/foto2.png","https://clinicadetodos-sp.com.br/wp-content/uploads/2021/02/Clinica-de-todos-lapa-recepcao.jpg"],
     "endereço": [{
                   "Rua":"Av. Augusta Viola da Costa", 
                   "Numero": "800",
@@ -57,6 +60,7 @@
     "id": 4,
     "idCl": 4,
     "nomeCl": "Teste Clinica 4",
+    "img": ["https://i1.wp.com/iclinic-mkt.s3.amazonaws.com/ghost-images/images/2019/03/recepcionista-de-clinica.png?resize=1024&w=1024","https://clinicadeimagens.net/wp-content/uploads/2020/02/foto2.png","https://clinicadetodos-sp.com.br/wp-content/uploads/2021/02/Clinica-de-todos-lapa-recepcao.jpg"],
     "endereço": [{
                   "Rua":"Av. Augusta Viola da Costa", 
                   "Numero": "900",
@@ -70,6 +74,7 @@
     "id": 5,
     "idCl": 5,
     "nomeCl": "Teste Clinica 5",
+    "img": ["https://i1.wp.com/iclinic-mkt.s3.amazonaws.com/ghost-images/images/2019/03/recepcionista-de-clinica.png?resize=1024&w=1024","https://clinicadeimagens.net/wp-content/uploads/2020/02/foto2.png","https://clinicadetodos-sp.com.br/wp-content/uploads/2021/02/Clinica-de-todos-lapa-recepcao.jpg"],
     "endereço": [{
                   "Rua":"Av. Augusta Viola da Costa", 
                   "Numero": "1200",
@@ -83,6 +88,7 @@
     "id": 6,
     "idCl": 6,
     "nomeCl": "Teste Clinica 6",
+    "img": ["https://i1.wp.com/iclinic-mkt.s3.amazonaws.com/ghost-images/images/2019/03/recepcionista-de-clinica.png?resize=1024&w=1024","https://clinicadeimagens.net/wp-content/uploads/2020/02/foto2.png","https://clinicadetodos-sp.com.br/wp-content/uploads/2021/02/Clinica-de-todos-lapa-recepcao.jpg"],
     "endereço": [{
                   "Rua":"Av. Augusta Viola da Costa", 
                   "Numero": "1200",
